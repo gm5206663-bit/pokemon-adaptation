@@ -125,11 +125,11 @@ meta at all · rules-only meta as described above.
 ## What happens the moment you rule
 
 1. Every answer goes into `RULINGS_LOG.md`, numbered, dated, **verbatim**.
-2. `FOUNDATION.md`, `SYSTEM_SPEC.md`, `STATUS.md`, `METERS.md`, `SKILLS_CANON.md`,
-   `PANELS.md`, `TIMELINE.md`, `STORY_ARCS.md`, `CHARACTERS.md`, `CANON_GROUND.md`,
-   `RELATIONSHIPS.md`, `GLOSSARY.md`, `PLACES.md`, `CODEX.md`, `RAILS.md` get
-   built from the rulings — roughly the 20-file docset from
-   `docs/02_workflow.md` Stage 1.
+2. The docset gets built from the rulings — `FOUNDATION`, `POWER_LAW`, `STATUS`,
+   `SKILLS_CANON`, `PANELS`, `TIMELINE`, `STORY_ARCS`, `CHARACTERS`,
+   `CANON_GROUND`, `RELATIONSHIPS`, `GLOSSARY`, `PLACES`, `CODEX`, `RAILS`,
+   `HANDOFF`, `SERIAL_LOG`. **Done 2026-09-30**, and rebuilt the same day after
+   the System framework was struck.
 3. `canon_extract/INDEX.txt` gets its spine and its first slots marked `pending`.
 4. A gate gets built before chapter 1, not after. Per the Ship Law, a gate that
    has never caught anything is decoration.

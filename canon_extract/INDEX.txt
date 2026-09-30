@@ -19,14 +19,19 @@ GATE (V6):   every ORE DONE claim must have a file. Marking a slot ORE DONE
 
 SLOTS
 -----
-IL001  pending   Pokemon, I Choose You!  — chapter 1 ore. Beats already
-                 receipted in foundation/CANON_GROUND.md section 1; the ore
-                 file still needs title-verified dialogue per V4.
-IL002  pending   Pokemon Emergency!
-IL003  pending   Ash Catches a Pokemon
-IL004  pending   Challenge of the Samurai
-IL005  pending   Showdown in Pewter City
+IL001  pending   "Pokemon, I Choose You!" — TITLE VERIFIED 2026-09-30 against
+                 Wikipedia and pallettown.fandom.com/wiki/IL001. Beats receipted
+                 in foundation/CANON_GROUND.md section 1. The ore file itself
+                 does not exist yet and V6 requires it before chapter 1.
 
-NOTE: episode titles above are placeholders for slot names and are NOT yet
-title-verified. V2 requires the page title be read off the fetch, not off the
-link clicked, before any slot may be marked ORE DONE.
+IL002  BLOCKED   ORDERING UNRESOLVED. Two sources disagree on what the second
+IL003  BLOCKED   episode is: one gives "Pokemon Emergency!", another gives
+IL004  BLOCKED   "Bulbasaur and the Hidden Village". This is the same trap the
+IL005  BLOCKED   Miraculous project documented for production vs broadcast
+                 order (see its CANON_ACCESS.md V5). No slot past IL001 may be
+                 marked pending-with-a-title, let alone ORE DONE, until the
+                 ordering is receipted. Logged in SERIAL_LOG.md entry 007.
+
+NOTE ON TITLES: a title in this file is a receipt only if it was read off the
+fetched page (V2), not off the link clicked and not off memory. Titles above are
+marked with their verification state for exactly that reason.

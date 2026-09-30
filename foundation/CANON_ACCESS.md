@@ -119,7 +119,8 @@ rejected by the gate — same rule as `the-universal-storyline-creation`.
   Do not carry a mechanic across a generation boundary without a receipt.
 - **Numbers.** The author's prose law bans count-numbers in prose
   (clean-and-clear: `over60 0`, no digits in the body). Levels, HP, stats and
-  damage all live in `STATUS.md` and `SYSTEM_SPEC.md`, never in a sentence.
+  damage all live nowhere at all. This serial has no numbers. Growth is shown
+  through the body, never counted.
   Pokémon is a numbers-shaped franchise; this is the single hardest law to hold
   here, and it is the one that will be broken first if it is not written down
   before chapter 1.

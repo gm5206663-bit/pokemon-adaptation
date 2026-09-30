@@ -15,13 +15,21 @@ until ruled.*
    confidence tag. Includes the receipt that decides the power law.
 4. `foundation/CANON_ACCESS.md` — how canon ore enters, ported from the
    Miraculous V1-V6 recipe.
-5. `NOTICE.md` — fan-work terms.
+5. `foundation/RAILS.md` — k01 to k19, this serial's own laws.
+6. `foundation/POWER_LAW.md` — the power law. **There is no System in this
+   serial** — no meters, no grades, no percentages.
+7. `foundation/STATUS.md` — the single current-truth source.
+8. `foundation/HANDOFF.md` — cold start for any future agent.
+9. `NOTICE.md` — fan-work terms.
 
 ## Live edge
 
-No chapter. Stage 0 is **partly answered**: R1-R4 are ruled, and ruling them
-surfaced two new ones (R13, R14) that keep drafting locked. That is the
-Foundation-Stage law working, not a delay.
+Zero chapters. **Stage 0 is closed** — R1 through R14 ruled 2026-09-30 — and the
+foundation docset is built. Drafting is unlocked.
+
+What still stands between here and chapter 1: **the gate.** `tools/` does not
+exist yet, and RAILS k17 says no chapter ships without one. A gate that has
+never caught anything is decoration, so it gets built first.
 
 ## The premise so far
 

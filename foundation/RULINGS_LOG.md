@@ -50,7 +50,85 @@ surprises stay intact.
 
 ---
 
-## NEW RULINGS OPENED BY THE ABOVE — drafting stays locked
+## R13 and R14 — RULED 2026-09-30
+
+### R13 — ruled: **A, brought west years ago, unrecorded**
+
+The Bagon came out of an unnamed eastern land years ago and was always here,
+unrecorded. No canon event is spent. The world simply has a gap in its map, and
+it does. **Hoenn is never named in Season 1** — naming it would spend a reveal
+the anime does not spend for another five years. The eastern land stays unnamed
+on page until the author opens it.
+
+### R14 — ruled: **A, the chain continues past Salamence**
+
+Salamence is a **floor, not a ceiling**. Adaptation Talent carries the line past
+it, consistent with F14 and with how the talent ran in Qian Xun Ji. The cost was
+stated honestly when the option was offered — the clean payoff of "he can fly at
+last" is softened — and the author took it anyway. Recorded as ruled, not
+re-argued.
+
+**Consequence, now law:** the chain continues and nothing is ever finished.
+
+**Correction, 2026-09-30.** This entry originally went further and named three
+past-canon stages — Storm-Vault Drake, Sky-Breaker Sovereign, Aether-Crown
+Wyrm — and applied the Soul Land grade-and-fusion machinery to them. Both were
+struck on the author's word:
+
+> "We later see this thing."
+>
+> "why you adding system thing to this fen fiction, that was for soul land and
+> when oc have cheat system, he have adaption telent"
+
+R14-A rules **that** the chain continues. It does not rule **what it continues
+into**, and it does not import a System. The rungs stay unnamed until the serial
+reaches them. Receipt: `_archive/2026-09-30_system_framework_struck/RECEIPT.md`.
+
+---
+
+## STAGE 0 — closed 2026-09-30, with a correction
+
+**Drafting is unlocked.** The foundation docset is built.
+
+### Correction — this entry originally overstated itself
+
+It said "R1 through R14 answered." **That was false.** The author ruled six:
+
+- **Ruled by the author:** R1, R2, R3, R4 (the Stage 0 lane answers) and R13,
+  R14 (the two the collision opened).
+- **Defaults taken, never individually ruled:** R5, R6, R7, R8, R9, R10, R12.
+  These were recommendations in `OPEN_RULINGS.md` that the agent carried
+  forward as if they had been ruled. They are recorded below as defaults and
+  they stand **unless struck**.
+- **Still open:** R11, the OC's name. The author's gift, never the agent's.
+
+Claiming fourteen rulings when six were given is exactly the failure the
+Control Centre protocol warns about — a state layer that cannot tell you which
+of its own facts are soft is not a control centre.
+
+### Defaults taken, strikable at any time
+
+| | Default taken | From |
+|---|---|---|
+| R5 | follow canon by default; bend only when earned and logged | the Soul Land serials' standing policy |
+| R6 | separate universe, no crossovers | the separation-wall law |
+| R7 | no count-numbers in prose | clean-and-clear, k02 |
+| R8 | no panels in prose, and none in `STATUS.md` either | k05, k06 — and now total, since there is no System |
+| R9 | band 2400-3400, sentence average 14-18, nothing over 60, `the-way` 0, `bare` 0 | Grey Wolf's measured gate |
+| R10 | canon characters added, never centered; the OC never replaces a canon cause | the MCU law: deny ACCESS, not competence |
+| R12 | non-commercial, no explicit sexual content, the disclaimer travels with everything | the standing fan-work terms |
+
+**Say "strike R7" or "R9: <your words>" and the default is replaced.**
+
+### Also open, and not blocking
+
+- **How far "follow" runs.** Season 1 is 52 TV episodes. Ruled when it matters.
+- **Episode ordering past IL001.** Two sources disagree. Receipt it, do not
+  guess (`SERIAL_LOG.md` 007).
+
+---
+
+## Historical — the rulings as they were first opened
 
 R3 and R2 collide. Both are the author's rulings and both are honoured, so the
 collision becomes two new rulings rather than a silent fix.
@@ -112,14 +190,6 @@ receipt your method demands before a power law is written down.
 
 ---
 
-## Not yet ruled
-
-- **R11 — the OC's name.** Still placeholder `<readout>`, per your System-name
-  convention: the name is the author's gift, never the agent's.
-- **R2 detail — how far does "follow" run?** Season 1 is 52 TV episodes
-  (79 in the video release order). Does the serial track all of it, or bend
-  after an arc?
-- **R13 and R14 above.**
-
-**Drafting remains locked until R13 and R14 are answered.** That is the
-Foundation-Stage law working, not a delay.
+*R13 and R14 are ruled above. This section is the original framing, kept
+because the reasoning behind each option is a receipt for why the ruling was
+made and what was given up.*

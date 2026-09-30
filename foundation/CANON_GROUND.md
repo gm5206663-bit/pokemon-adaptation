@@ -113,9 +113,10 @@ nintendo.fandom.com.
 **Why this is load-bearing:** canon has already ruled that the headbutting is a
 **cause** of evolution, not a symptom. That is a receipt for a mechanism, which
 is what your method requires before a power law is written. It means the Bagon's
-cliff-diving is not character colour — it is *training*, and it can be metered,
-paced and gated exactly like a Soul Land technique. This is the single best
-receipt in the file.
+cliff-diving is not character colour — it is *training*, and the serial can
+build on it without inventing a mechanism. This is the single best receipt in
+the file. (It is not a licence for a meter system — that was struck; see
+`_archive/2026-09-30_system_framework_struck/RECEIPT.md`.)
 
 **Claim:** Salamence's Flying typing is where the dream resolves. Shelgon is a
 pupa-like stage — the second such stage in an otherwise reptilian line, the
