@@ -30,7 +30,7 @@ That is the test, and it is applied before drafting, not after.
 
 | Who | State | What they would see | `earliest_change` |
 |---|---|---|---|
-| **Ash Ketchum** | `UNKNOWN` | nothing yet | a direct encounter. On page, in a chapter, logged |
+| **Ash Ketchum** | `UNKNOWN` at the open, **`KNOWN` by the close of ch 1** | R16: the OC joins him in IL001 | **happens in chapter 1.** Logged as the serial's first divergence |
 | **Professor Oak** | `UNKNOWN` | nothing yet | a sighting, a scale, a footprint — something physical reaching him. He is the character most likely to eventually classify it, and that is a reveal worth holding |
 | **Misty** | `UNKNOWN` | nothing yet | a direct encounter |
 | **Brock** | `UNKNOWN` | nothing yet | a direct encounter |

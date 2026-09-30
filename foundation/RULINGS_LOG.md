@@ -86,6 +86,60 @@ reaches them. Receipt: `_archive/2026-09-30_system_framework_struck/RECEIPT.md`.
 
 ---
 
+## Ruled 2026-09-30 (second sitting) — the build shape
+
+### R15 — R11, the name
+
+> **Selected:** start unnamed.
+
+**Recorded as:** the OC has no name. Nobody in Kanto has a word for it and it
+cannot speak, so it has never been named. Prose refers to it by what it is, never
+by a name. If a name ever arrives it is a gift from a character on page, and it
+will be a chapter event, not a retcon.
+
+### R16 — where the serial opens, and the OC's relation to Ash
+
+> **Author's word, verbatim:** "Of course it start with Ash, session 1 episode 1"
+>
+> **Selected:** it joins Ash in IL001 — a second creature beside Pikachu.
+
+**Recorded as:** the serial opens inside IL001 and the Bagon **joins Ash**. This
+is a **logged divergence**: canon's first day gives Ash one Pokémon, ours gives
+him two. Nothing is displaced — Ash still gets Pikachu, still meets Misty, still
+loses a bike, still sees the Ho-Oh. What the Bagon's presence changes is recorded
+in the divergence ledger with a receipt, because a second creature in Ash's first
+day is a butterfly whether or not anyone names it.
+
+### R17 — the camera
+
+> **Selected:** the camera stays on the Bagon only.
+
+**Recorded as:** third person limited, the Bagon's side only. The camera never
+leaves the OC. Canon reaches the page only where the Bagon can witness it.
+
+**The contradiction, named and then resolved by the author's own second ruling.**
+The dual-track doctrine says canon runs *"complete and unskipped."* A
+Bagon-locked camera cannot guarantee that. The agent raised this before the
+ruling and the author chose the locked camera anyway.
+
+It resolves because of R16: **the Bagon joins Ash**, so it is standing in the
+room for nearly every beat of IL001. The lab, Pikachu, the Pokédex, the Pidgey,
+the rock, the Spearow, the flock, the waterfall, Misty, the bike, the body thrown
+over a Pikachu, the Ho-Oh over the rainbow — all of it is inside the OC's sight.
+
+**What this lawfully costs:** anything the Bagon cannot see does not appear.
+Canon is therefore *"complete as witnessed"*, not *"complete"*. That is a real
+narrowing of the doctrine and it is recorded as one, not hidden.
+
+### R18 — pacing
+
+> **Selected:** one episode per chapter.
+
+**Recorded as:** IL001 is chapter 1, IL002 is chapter 2. In the 2400-3400 band an
+episode's beats fit and the clock stays honest.
+
+---
+
 ## STAGE 0 — closed 2026-09-30, with a correction
 
 **Drafting is unlocked.** The foundation docset is built.

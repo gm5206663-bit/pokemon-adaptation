@@ -19,10 +19,13 @@ GATE (V6):   every ORE DONE claim must have a file. Marking a slot ORE DONE
 
 SLOTS
 -----
-IL001  pending   "Pokemon, I Choose You!" — TITLE VERIFIED 2026-09-30 against
-                 Wikipedia and pallettown.fandom.com/wiki/IL001. Beats receipted
-                 in foundation/CANON_GROUND.md section 1. The ore file itself
-                 does not exist yet and V6 requires it before chapter 1.
+IL001  ORE DONE  "Pokemon, I Choose You!" — TITLE VERIFIED 2026-09-30 against
+                 Wikipedia and palletton/pallettown.fandom.com/wiki/IL001.
+                 Ore file: canon_extract/IL001.txt (17 numbered beats, 6
+                 characters, 5 mechanics receipts, 5 warp points). Distilled,
+                 not pasted (V3). Exact dialogue held back as [ON DEMAND] (V4).
+                 Disambiguation note recorded: NOT the 2017 film of nearly the
+                 same title, which is a separate continuity.
 
 IL002  BLOCKED   ORDERING UNRESOLVED. Two sources disagree on what the second
 IL003  BLOCKED   episode is: one gives "Pokemon Emergency!", another gives

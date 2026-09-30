@@ -28,12 +28,30 @@ Masamitsu Hidaka, written Takeshi Shudo) and pallettown.fandom.com/wiki/IL001
 | Pikachu drives the flock off | yes | not present |
 | **A Ho-Oh crosses the rainbow** | yes | not present |
 
-**Why the right-hand column matters:** the OC is nowhere in canon's first
-episode, and that is correct. It is added, never centered (k16). Chapter 1 does
-not have to intersect IL001 at all. It only has to happen on the same day, in
-the same region, under the same sky that a Ho-Oh crosses.
+**Correction, 2026-09-30.** The right-hand column above reads "not present"
+down every row. That was the agent's error, not the plan. The author's word:
+**"Of course it start with Ash, session 1 episode 1."**
 
-**The one canon object the serial will use:** the Pokédex. It is established on
+So the doctrine is the author's own **dual-track canon-parallel** build, quoted
+verbatim from `lan_shen/README.md`:
+
+> *"canon runs on the page, complete and unskipped... The original character
+> lives in parallel — same clock, same streets — and a butterfly effect is only
+> logged when the two tracks make contact on the page. Canon shown, never
+> skipped; the OC added, never centered."*
+
+**Two tracks, one clock:**
+
+- **Track A — canon.** IL001 plays out on page, complete and unskipped. Ash
+  oversleeps. The starters are gone. Pikachu shocks him. The Pidgey attempt
+  fails. The rock, the Spearow, the flock, the waterfall, Misty, the bike, the
+  body thrown over a Pikachu, the Ho-Oh over the rainbow. None of it is skipped.
+- **Track B — the Bagon.** Same day, same region, same clock. It has been here
+  for years and it has a territory (ruled: *established*).
+- **Contact is logged, not assumed.** Wherever the tracks touch, it goes in the
+  divergence ledger with a receipt.
+
+**The one canon object that does the most work:** the Pokédex, established on
 page in IL001 as a thing Ash carries and consults. It has no entry for a Bagon.
 That is receipt-backed.
 

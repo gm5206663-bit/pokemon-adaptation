@@ -22,8 +22,14 @@ at something and doing it anyway.
 reader can see — the rock losing, for the first time, to something that in
 autumn would have lost.
 
-**Canon contact:** minimal by design. This is the arc where the OC is nowhere
-near Ash. If it touches IL001 at all, it touches the same sky.
+**Canon contact:** the serial **opens inside IL001**, on the author's word
+("Of course it start with Ash, session 1 episode 1"). Canon runs on page,
+complete and unskipped — this is the dual-track doctrine, not an option.
+
+**Correction, 2026-09-30.** This arc originally said canon contact was "minimal
+by design" and that the OC was "nowhere near Ash." That was wrong, and it
+contradicted the author's own dual-track doctrine (`lan_shen/README.md`): canon
+shown, never skipped. Struck.
 
 **The risk in this arc, named:** repetition. A serial about a creature hitting a
 rock can become a serial about nothing. The defence is the five questions —

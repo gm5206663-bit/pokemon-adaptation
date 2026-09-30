@@ -11,11 +11,13 @@
 ## Window
 
 - **Live edge:** none. Zero chapters. Foundation rebuilt, drafting unlocked.
-- **Clock:** day 0 is IL001, Kanto, 1997. The Bagon is somewhere in Kanto on
-  that day and has not yet met anyone.
+- **Clock:** day 0 is IL001, Kanto, 1997. **The serial opens inside that episode
+  (R16) and the Bagon joins Ash.** Logged divergence: canon gives Ash one
+  Pokémon, we give him two.
 - **Body:** **Bagon**, Dragon-type. Stage 1 of 3 canon stages, and the chain
   continues past the third (R14-A) into something unruled.
-- **Name:** `<readout>` — R11 open. The name is the author's gift.
+- **Name:** **none. Ruled unnamed (R15).** Prose never names it. If a name ever
+  arrives it is a gift from a character on page.
 
 ## Locks (fixed, not negotiable)
 
@@ -63,8 +65,9 @@ and it will change what the talent can do. Which bond, and when, is
 
 ## Relationships
 
-None. The OC has met no one. Every canon character sits at `UNKNOWN` in
-`RELATIONSHIPS.md`, each with an `earliest_change` field.
+At chapter 1's open: none. By chapter 1's close, per R16, the OC has joined
+Ash. **Ash and Pikachu both move off `UNKNOWN` in chapter 1**, and
+`RELATIONSHIPS.md` changes the same turn (k18).
 
 ## Canon position
 

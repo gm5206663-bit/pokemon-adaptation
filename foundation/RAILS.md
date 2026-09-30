@@ -17,9 +17,15 @@ HP, stats, damage, ages and dates all live in `STATUS.md`. This is the hardest
 law in this serial because the franchise is numbers-shaped, and it is the one
 that will be broken first if it is not measured.
 
-**k03 — third person limited, the Bagon's side only.** The camera never leaves
-the OC. Canon events are witnessed from outside, never narrated from inside a
+**k03 — third person limited, the Bagon's side only (ruled, R17).** The camera
+never leaves the OC. Canon events are witnessed, never narrated from inside a
 canon character's head.
+
+**The doctrine narrowing this causes, recorded honestly:** the dual-track law
+says canon runs *complete and unskipped*. A locked camera cannot guarantee that,
+so in this serial canon is **complete as witnessed**. Anything the Bagon cannot
+see does not appear on page. R16 largely closes the gap — the OC joins Ash, so it
+is present for nearly every beat — but the narrowing is real and is not hidden.
 
 **k04 — the OC cannot speak.** No dialogue from the OC, ever. Its meaning is
 carried by gesture, posture, sound and what other characters decide it means. A

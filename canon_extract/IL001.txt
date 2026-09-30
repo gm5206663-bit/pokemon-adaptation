@@ -1,0 +1,128 @@
+ORE FILE — IL001
+================
+
+source_url   : https://en.wikipedia.org/wiki/Pok%C3%A9mon,_I_Choose_You!
+page_title   : "Pokémon, I Choose You!"   (read off the fetched page, V2)
+second source: https://pallettown.fandom.com/wiki/IL001:_Pok%C3%A9mon,_I_Choose_You!
+fetched      : 2026-09-30 (IST)
+continuity   : ANIME, original series, Indigo League, Season 1
+spine status : SPINE — load-bearing for beats (R2)
+disambig     : not to be confused with the film "Pokémon the Movie: I Choose You!"
+               (2017), which reboots the premise in a separate continuity. The
+               title is nearly identical. This ore is for the 1997 episode.
+
+V3 COMPLIANCE — this file is distilled, not pasted. Prose must not share a
+12-gram run with it; tools/style_gate.py enforces that against this file.
+V4 — exact dialogue is NOT held here. Lines are marked [ON DEMAND] and are to be
+fetched only if a chapter needs the exact words.
+
+
+SYNOPSIS
+--------
+A boy in a small town turns ten and oversleeps on the morning he is due to
+receive his first Pokémon. The three starters are gone. The professor has one
+creature left and warns there is a problem with it. The boy takes it anyway. It
+is an electric mouse that does not want him. He is given a handbook and six
+empty balls and sent out. He fails to catch anything, throws a stone at the
+wrong bird, and starts a flock. A girl pulls him out of a river. He loses her
+bicycle. He puts his own body over the mouse and the mouse saves them both. A
+large bird crosses a rainbow at the end and nobody can tell him what it was.
+
+
+BEATS — numbered, in order
+--------------------------
+1.  Morning. The boy wakes late, in his sleep clothes, and runs.
+2.  The laboratory. All three starter balls are empty. He begs.
+3.  The professor has one left. He says there is a problem with it. The boy does
+    not care.
+4.  The mouse comes out and shocks him on contact. It will not come near him.
+5.  The handbook and six balls are handed over. [ON DEMAND: the professor's
+    parting line.]
+6.  Out on the road. The mouse follows at a distance and will not be carried.
+7.  A small brown bird. The boy throws a ball at it and nothing happens.
+8.  The handbook, consulted: a wild creature has to be weakened before it can be
+    taken. This is the first time the object is used on page.
+9.  He tries to fight the bird with the mouse. The mouse refuses. He loses.
+10. He throws a stone at what he believes is the same bird. It is a different
+    bird, and a larger one, and it is angry.
+11. The flock comes. He carries the mouse and goes over a fall into a river.
+12. A red-haired girl fishes them out and tells him to get the mouse to a
+    recovery centre in the next town.
+13. He takes her bicycle without asking. The flock catches them on the road.
+14. He puts his own body over the mouse. This is the episode's centre.
+15. The mouse sees it. The mouse discharges, scatters the flock, and destroys the
+    bicycle in the process.
+16. He carries the mouse the rest of the way. The mouse licks his face.
+17. The clouds open. A large bird crosses a rainbow. The handbook has no entry
+    for it. [ON DEMAND: what the boy says when he sees it.]
+
+MAJOR EVENTS ON PAGE
+- The boy begins with the mouse.
+- His rival begins the same day with a different starter.
+- He meets the red-haired girl.
+- He sees the rainbow bird.
+
+DEBUTS — creatures seen for the first time in the series
+Nidorino, Gengar, Onix, Bulbasaur, Squirtle, Charmander, Pidgey, Rattata,
+Spearow, Dodrio, Voltorb, and the rainbow bird. Several appear only as toys.
+
+
+CHARACTERS
+----------
+the boy        ten years old, from the small town. Continuity: ANIME.
+               Reckless, loud, not cruel. His defining act in this episode is
+               throwing his body over a creature that has done nothing but
+               refuse him.
+the mouse      the starter left over. Does not want to be caught or carried.
+               Distrusts the boy until beat 14, and not because of anything
+               said. Continuity: ANIME.
+the professor  gives the handbook and the balls. Continuity: ANIME.
+the girl       pulls them out of the river. Loses a bicycle. Vows to follow
+               until it is paid for (established in the following episode).
+the rival      begins the same day with a different starter. Barely on screen.
+the flock      the actual threat of the episode. Not a villain, a consequence.
+the rainbow bird  seen once, unnamed on page, not in the handbook.
+
+
+MECHANICS — exactly as the episode states them
+----------------------------------------------
+- A ten-year-old may be licensed to train.            [on page, beat 1]
+- Three starters are offered; there are only three.    [on page, beat 2]
+- A wild creature must be weakened before a ball will hold it.
+                                                       [on page, beat 8]
+- The handbook identifies known species and returns nothing for unknown ones.
+                                                       [on page, beats 8 and 17]
+- A ball does nothing when thrown at a creature that has not been weakened.
+                                                       [on page, beat 7]
+
+
+KEY WORLD-STATE FACTS
+---------------------
+- The handbook is an ordinary carried object. It is consulted, it is wrong about
+  things it has never seen, and it is not a companion. This matters enormously
+  to this serial: it is the instrument that cannot name the OC.
+- Recovery centres exist in each town and injured creatures are taken to them.
+- Trainers carry a fixed number of empty balls when they set out.
+- The rainbow bird is not in the handbook. Canon establishes, in episode one,
+  that the handbook has gaps. That is a receipt, and it is the receipt this
+  serial most depends on.
+
+
+WARP POINTS — suggestions for the divergence ledger
+---------------------------------------------------
+W1  The OC joins the boy in this episode (R16). Canon gives him one creature.
+    Ours gives him two. Everything downstream that counts his team is now off by
+    one, and every such moment needs a receipt.
+W2  Beat 8 — the handbook is consulted and answers. If the OC is present, the
+    handbook may be pointed at it and return nothing, in the same episode where
+    it correctly identifies a bird. The contrast is free and it is on-canon.
+W3  Beat 14 — the body over the mouse. If the OC witnesses this, it is watching
+    a human take a blow for a creature that has done nothing for him. For an
+    animal that has been alone for years, that is the single most consequential
+    thing it could see.
+W4  Beat 17 — the rainbow bird, absent from the handbook. The episode already
+    ends on "the handbook does not know everything." The OC is the same shape of
+    unknown. Do not spend both in the same breath.
+W5  The rival begins the same day with a different starter. Adding a second
+    creature to the boy's first day changes what the rivalry is measuring.
+    Logged, not resolved here.

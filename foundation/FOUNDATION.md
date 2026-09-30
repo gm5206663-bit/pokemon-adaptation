@@ -21,9 +21,18 @@ something their Pokédex cannot name.
 ## Why canon needs this OC to exist
 
 **It does not.** That is the correct answer and it is the law. The Bagon is
-added, never centered. Ash still gets Pikachu, still meets Misty, still sees a
-Ho-Oh. The Bagon is in the same region on the same clock and its life touches
-canon only where the tracks make contact, and every contact is logged.
+added, never centered.
+
+**The build is dual-track canon-parallel**, the author's own doctrine from
+`lan_shen/README.md`: canon runs **on the page, complete and unskipped**, and the
+OC lives in parallel — same clock, same streets. A butterfly is logged only when
+the two tracks make contact on the page. Canon shown, never skipped.
+
+The serial **opens inside IL001, with Ash** — the author's word. Ash still gets
+Pikachu, still meets Misty, still sees a Ho-Oh. Nothing is skipped and nothing is
+displaced. What the Bagon's presence *changes* is logged as a divergence with a
+receipt, because a second creature in Ash's first day is a butterfly whether or
+not anyone names it.
 
 ## The three inherited laws that shape everything
 
