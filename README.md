@@ -7,17 +7,29 @@ until ruled.*
 
 ## Read order
 
-1. `foundation/OPEN_RULINGS.md` — **the twelve rulings.** Answer these and
-   everything else follows.
-2. `foundation/CANON_ACCESS.md` — how canon ore enters, ported from the
-   Miraculous V1-V6 recipe. Contains THE SPINE PROBLEM, which is why ruling R1
-   is ruling number one.
-3. `NOTICE.md` — fan-work terms.
+1. `foundation/RULINGS_LOG.md` — **what the author has ruled, verbatim,** and
+   the two new rulings (R13, R14) that are still open.
+2. `foundation/OPEN_RULINGS.md` — the full Stage 0 lane table and the argument
+   behind each recommendation.
+3. `foundation/CANON_GROUND.md` — every canon claim with its source and
+   confidence tag. Includes the receipt that decides the power law.
+4. `foundation/CANON_ACCESS.md` — how canon ore enters, ported from the
+   Miraculous V1-V6 recipe.
+5. `NOTICE.md` — fan-work terms.
 
 ## Live edge
 
-None. No chapter exists. That is the correct state for a serial whose rulings
-are unanswered.
+No chapter. Stage 0 is **partly answered**: R1-R4 are ruled, and ruling them
+surfaced two new ones (R13, R14) that keep drafting locked. That is the
+Foundation-Stage law working, not a delay.
+
+## The premise so far
+
+A **Bagon** — a Generation III Hoenn species that has no business existing in
+Kanto in 1997 — holding **Adaptation Talent**, the author's locked universal
+core, in the world of Indigo League episode 1 on the day Ash Ketchum receives
+Pikachu. The OC understands types and evolution as a system and has never heard
+of the plot. It cannot speak.
 
 ## Why this repository exists
 

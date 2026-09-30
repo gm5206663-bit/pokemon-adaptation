@@ -1,11 +1,17 @@
 CANON EXTRACT INDEX — POKEMON
 =============================
 
-SPINE:  NOT YET RULED (ruling R1 — see foundation/OPEN_RULINGS.md)
-REGION/GENERATION: NOT YET RULED (ruling R2)
+SPINE (R2, ruled 2026-09-30):
+  The ANIME, Indigo League, Season 1, from episode IL001 onward.
+  Author's words: "We follow from session 1 episode 1 from"
 
-No slot may be marked ORE DONE until the spine is ruled. The spine decides
-what a slot even is.
+ORE (R1, ruled 2026-09-30):
+  Author's words: "All" — every canon is admissible as ore. Per RULINGS_LOG.md
+  the reconciliation is: the anime is load-bearing for BEATS; games, Adventures,
+  spin-offs and Bulbapedia are anchors, citable for a FACT, never load-bearing
+  for a beat.
+
+REGION: Kanto. CLOCK: starts on IL001, 1997-04-01 (Japan air date).
 
 STATUS KEY:  pending | ORE DONE
 GATE (V6):   every ORE DONE claim must have a file. Marking a slot ORE DONE
@@ -13,4 +19,14 @@ GATE (V6):   every ORE DONE claim must have a file. Marking a slot ORE DONE
 
 SLOTS
 -----
-(none — the index is built once R1 and R2 are ruled)
+IL001  pending   Pokemon, I Choose You!  — chapter 1 ore. Beats already
+                 receipted in foundation/CANON_GROUND.md section 1; the ore
+                 file still needs title-verified dialogue per V4.
+IL002  pending   Pokemon Emergency!
+IL003  pending   Ash Catches a Pokemon
+IL004  pending   Challenge of the Samurai
+IL005  pending   Showdown in Pewter City
+
+NOTE: episode titles above are placeholders for slot names and are NOT yet
+title-verified. V2 requires the page title be read off the fetch, not off the
+link clicked, before any slot may be marked ORE DONE.

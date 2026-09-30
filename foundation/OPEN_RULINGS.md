@@ -1,5 +1,29 @@
 # OPEN_RULINGS.md — Stage 0 · the decisions only the author can make
 
+> ## STATUS 2026-09-30 — R1 to R4 ANSWERED, R13 AND R14 OPENED
+>
+> **R1 "All" · R2 Season 1 Episode 1 · R3 a Bagon with Adaptation Talent ·
+> R4 rules-not-events.** Recorded verbatim in `RULINGS_LOG.md`.
+>
+> R3 and R2 collide, and both are the author's rulings, so the collision became
+> two new rulings instead of a silent fix:
+>
+> - **R13 — Bagon is a Generation III Hoenn species and this is Kanto in 1997.**
+>   Bulbapedia: *"unavailable prior to Generation III."* Game debut 2002; anime
+>   debut AG043 in the Hoenn era; trade-only in the Kanto remakes. It needs a
+>   logged cause. **This is the premise's best hook, not a flaw** — in Season 1
+>   the Pokédex is an object on page, and it has no data on this creature.
+> - **R14 — Bagon's line has a terminal and F14 says nothing does.**
+>   Bagon → Shelgon (30) → Salamence (50), and Salamence is Dragon/Flying: the
+>   dreamer finally flies. Your Evolution Chain Law forbids terminals.
+>
+> **DRAFTING STAYS LOCKED until R13 and R14 are ruled.** Full options and
+> recommendations for both are at the bottom of `RULINGS_LOG.md`.
+>
+> Receipts for every canon claim are in `CANON_GROUND.md`, each with its source
+> and a confidence tag.
+
+
 > **DRAFTING IS LOCKED.** Zero chapters until every ruling below is answered.
 > This is the Foundation-Stage law: *rulings first, prose second, always zero
 > chapters until ruled.* It is not bureaucracy — it is how chapter 30 does not
