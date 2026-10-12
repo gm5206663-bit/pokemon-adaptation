@@ -1,0 +1,4 @@
+# Machine files — regenerable, never prose.
+__pycache__/
+*.pyc
+.DS_Store
