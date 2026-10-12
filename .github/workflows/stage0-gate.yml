@@ -1,0 +1,59 @@
+# STAGE-0 GATE — the gate's teeth, and the law that there is no prose yet.
+#
+# Armed 2026-10-12, under the same rollout as the others: actions pinned to
+# SHAs, permissions contents: read, concurrency, job timeout.
+#
+# TRIGGER COVERS WHAT THE CHECKER READS.
+#
+# WHAT THIS DOES AND DOES NOT VERIFY — the gate's own selftest (24 checks) — and the law this repo states in its own README: rulings first, prose second, zero chapters until ruled. A gate over zero chapters would verify nothing; this workflow verifies the gate and the lock instead.
+
+name: stage0-gate
+
+on:
+  push:
+    paths:
+      - 'foundation/**'
+      - 'tools/**'
+      - '.github/workflows/stage0-gate.yml'
+  pull_request:
+    paths:
+      - 'foundation/**'
+      - 'tools/**'
+      - '.github/workflows/stage0-gate.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: stage0-gate-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  gate:
+    name: gate selftest + stage-0 lock
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: "3.11"
+      - name: The gate's own selftest (24 checks)
+        run: python3 tools/style_gate.py --selftest
+
+      # README: "Zero chapters, by design. Stage 0 is open." If chapters ever
+      # appear here, that is not a style failure — it is the law being broken,
+      # and it should be loud.
+      - name: Stage-0 lock — no chapters until every ruling is answered
+        run: |
+          if [ -d chapters ] && ls chapters/*.md >/dev/null 2>&1; then
+            echo "STAGE-0 LOCK BROKEN: chapters exist but foundation/OPEN_RULINGS.md holds open rulings."
+            exit 1
+          fi
+          echo "stage-0 lock holds: no chapters on disk." 
